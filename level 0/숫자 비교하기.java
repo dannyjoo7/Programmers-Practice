@@ -1,5 +1,6 @@
 package practice;
 
+//숫자 비교하기
 public class Level0 {
 
 	public static void main(String[] args) {

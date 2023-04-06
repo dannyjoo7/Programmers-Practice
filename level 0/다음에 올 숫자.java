@@ -1,5 +1,6 @@
 package practice;
 
+//다음에 올 숫자
 public class Level0 {
 
 	public static void main(String[] args) {

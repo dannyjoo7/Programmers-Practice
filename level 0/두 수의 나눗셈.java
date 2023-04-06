@@ -1,5 +1,6 @@
 package practice;
 
+//두 수의 나눗셈
 public class Level0 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package practice;
 
+//배열 두배 만들기
 public class Level0 {
 
 	public static void main(String[] args) {
